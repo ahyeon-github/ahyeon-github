@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<div>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-github&show_icons=true&theme=radical)
+
+</div>
+
+
 -->
 
 ### Hello World! 👋 I'm ahyeon
@@ -32,8 +41,4 @@ Here are some ideas to get you started:
 <br>
 <br> 
 
-<div>
 
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-github&show_icons=true&theme=radical)
-
-</div>
