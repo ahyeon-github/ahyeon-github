@@ -31,6 +31,9 @@ Hello World! 👋 I'm ahyeon
 
 </div>
 
+<br>
+<br> 
+
 <div>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-github&show_icons=true&theme=radical)
