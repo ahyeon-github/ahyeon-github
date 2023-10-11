@@ -26,7 +26,7 @@ Hello World! 👋 I'm ahyeon
 
 <div>
   </a> <a href="mailto:ahyunlmn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/ahyunlmn@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ahyunlmn@gmail.com-d14836?style=flat-round&logo=Gmail&logoColor=white"/>
   </a>
 
 </div>
