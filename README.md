@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ahyeon-github/ahyeon-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ahyunlm
+
+Hello World! 👋 I'm ahyeon
+
+### 🌱 I'm interested in ... 
+
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/>
+
+
+<div>
+
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-github&show_icons=true&theme=radical)
+
+</div>
