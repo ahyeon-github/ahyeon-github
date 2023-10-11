@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ahyunlm
-
 Hello World! 👋 I'm ahyeon
 
 ### 🌱 I'm interested in ... 
