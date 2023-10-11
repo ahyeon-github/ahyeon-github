@@ -22,6 +22,15 @@ Hello World! 👋 I'm ahyeon
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/>
 
 
+#### 📫 How to reach me: ...
+
+<div>
+  </a> <a href="mailto:ahyunlmn@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/ahyunlmn@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+
+</div>
+
 <div>
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahyeon-github&show_icons=true&theme=radical)
