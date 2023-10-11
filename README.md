@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello World! 👋 I'm ahyeon
+### Hello World! 👋 I'm ahyeon
 
 ### 🌱 I'm interested in ... 
 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/>
 
 
-#### 📫 How to reach me: ...
+### 📫 How to reach me: ...
 
 <div>
   </a> <a href="mailto:ahyunlmn@gmail.com" target="_blank">
