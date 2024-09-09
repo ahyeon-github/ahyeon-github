@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 |2024.04 ~ 2024.05|AI&MLOps Application|Amazon SageMaker를 활용한 MLOps 구성 및 실시간 서비스|AWS SageMaker, Streamlit, Amazon S3, Amazon SNS, EventBridge, Lambda, EMR, Docker|[MLOps](https://github.com/X-beagle/X-beagle-Mlops-Project)
 |2023.12 ~ 2024.03|WebFounder|숙명여대 멋쟁이사자처럼 리쿠르팅 웹사이트|SpringBoot, MySQL 8, Spring Security + JWT, AWS RDS, Docker, Github Actions|[WebFounder](https://github.com/Likelion-at-SMWU-WebFounder)
 |2023.12 ~ 2024.02|대웅제약 AI 장학생|대웅제약 Hidoc 기사 작성 플랫폼|Django,React,Redis,WebSocket|[Hidoc](https://github.com/Daewoong-AI/Hidac-article-generation-BE)
-|2023.01 ~ 2023.04|2023-Nerror-SolutionChallenge|Flutter|[Nerror](https://github.com/dsc-sookmyung/2023-Nerror-SolutionChallenge)
+|2023.01 ~ 2023.04|2023-Nerror-SolutionChallenge|디지털 탄소 발자국을 줄이기 위한 환경 보호 솔루션 : 불필요한 이메일을 분류 및 삭제|Flutter|[Nerror](https://github.com/dsc-sookmyung/2023-Nerror-SolutionChallenge)
 |2023.05|글길 : 글에서 발견한 길|자신이 의도하는 대로 프레젠테이션과 면접을 이끌어나갈 수 있도록 돕는 앱|SpringBoot|[글길](https://github.com/road-found-in-the-text)|
 <br/>
 
