@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=soft&height=150&color=auto&text=AhyeonLim&fontSize=70&textBg=false&animation=twinkling)
 <!--
 **ahyeon-github/ahyeon-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,5 +41,3 @@ Here are some ideas to get you started:
 
 <br>
 <br> 
-
-
