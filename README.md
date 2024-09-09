@@ -53,12 +53,8 @@ Here are some ideas to get you started:
 |2024.06 ~ |대웅제약 AI 장학생|대웅제약 웰체크 다이어트 챗봇 QA 플랫폼|SpringBoot,MongoDB,DocumentDB,Mustache,EC2|[QA-Platform](https://github.com/wellcheck-AI/chat-platform-dev-scholar)
 |2024.02 ~ 2024.6|2024-FactChecker-SolutionChallenge|AI 기반 뉴스 기사 팩트 체크 애플리케이션|GCP,Gemini,Docker, GitHub Actions, Cloud Build, Cloud Run, Cloud SQL, Compute Engine|[FactChecker](https://github.com/2024-FactChecker-SolutionChallenge)
 |2024.04 ~ 2024.05|AI&MLOps Application|Amazon SageMaker를 활용한 MLOps 구성 및 실시간 서비스|AWS SageMaker, Streamlit, Amazon S3, Amazon SNS, EventBridge, Lambda, EMR, Docker|[MLOps](https://github.com/X-beagle/X-beagle-Mlops-Project)
-
 |2023.12 ~ 2024.03|WebFounder|숙명여대 멋쟁이사자처럼 리쿠르팅 웹사이트|SpringBoot, MySQL 8, Spring Security + JWT, AWS RDS, Docker, Github Actions|[WebFounder](https://github.com/Likelion-at-SMWU-WebFounder)
-
-
 |2023.12 ~ 2024.02|대웅제약 AI 장학생|대웅제약 Hidoc 기사 작성 플랫폼|Django,React,Redis,WebSocket|[Hidoc](https://github.com/Daewoong-AI/Hidac-article-generation-BE)
-
 |2023.01 ~ 2023.04|2023-Nerror-SolutionChallenge|Flutter|[Nerror](https://github.com/dsc-sookmyung/2023-Nerror-SolutionChallenge)
 |2023.05|글길 : 글에서 발견한 길|자신이 의도하는 대로 프레젠테이션과 면접을 이끌어나갈 수 있도록 돕는 앱|SpringBoot|[글길](https://github.com/road-found-in-the-text)|
 <br/>
