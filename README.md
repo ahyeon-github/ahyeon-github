@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 |기간|프로젝트|소개|기술|바로보기|
 |---|---|---|---|---|
-|2024.11 |GenAI Playgorund|YORILAB : 신메뉴 개발 시장 반응 예측 AI 서비스|SpringBoot,MongoDB,DocumentDB,Mustache,EC2|[YORILAB](https://github.com/GenAI-Playground-hackathon-Sharkholmes/streamlit)
+|2024.11 |숙명여대 캠퍼스타운 X AWS GenAI Playgorund|YORILAB : 신메뉴 개발 시장 반응 예측 AI 서비스|Amazon S3, Couchbase, Amazon Transcribe, Bedrock, Stable Diffusion, LangChain|[YORILAB](https://github.com/GenAI-Playground-hackathon-Sharkholmes/streamlit)
 |2024.03 ~ 2024.10|Tiing| Tiing : 엔터테이너-스카우터 협업 지원 서비스|SpringBoot, Next, MySQL, Redis, Stomp, Spring Security + JWT, AWS RDS, AWS S3, Docker, Github Actions|[Tiing](https://github.com/2024-Graduation-Tiing/Tiing-BE)
 |2024.06 ~ |대웅제약 AI 장학생|대웅제약 웰체크 다이어트 챗봇 QA 플랫폼|SpringBoot,MongoDB,DocumentDB,Mustache,EC2|[QA-Platform](http://52.78.140.218:8080/main)
 |2024.02 ~ 2024.6|2024-FactChecker-SolutionChallenge|AI 기반 뉴스 기사 팩트 체크 애플리케이션|GCP,Gemini,Docker, GitHub Actions, Cloud Build, Cloud Run, Cloud SQL, Compute Engine|[FactChecker](https://github.com/2024-FactChecker-SolutionChallenge)
