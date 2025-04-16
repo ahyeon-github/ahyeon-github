@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### 🌱 I'm interested in ... 
 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-round&logo=django&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-round&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-round&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-round&logo=Google Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=Docker&logoColor=white"/> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-round&logo=jenkins&logoColor=white"/> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-round&logo=nginx&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-round&logo=kubernetes&logoColor=white"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-round&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-round&logo=springboot&logoColor=white"/> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-round&logo=django&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-round&logo=mysql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-round&logo=mongodb&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-round&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-3776AB?style=flat-round&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-round&logo=Docker&logoColor=white"/> <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-round&logo=jenkins&logoColor=white"/> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-round&logo=nginx&logoColor=white"/> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-round&logo=kubernetes&logoColor=white"/> <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-round&logo=githubactions&logoColor=white"/>
 
 
 
@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 
 
 ## 🏆 Awards
+- START AWS Jampion 2nd Place | AWS, NXT CLOUD | 2024.12.28
 - 2024 GenAI Playground Hackathon Grand Prize (1st place) | AWS, 숙명여대 캠퍼스타운 | 2024.11.9
 - 2024 Chuncheon AWS Deepracer Championship | Chuncheon City, Gangwon Information & Culture Industry Promotion Agency, Sponsored by AWS
 | 2024.08 ~ 2024.09
